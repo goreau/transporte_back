@@ -1,0 +1,2 @@
+rodar o npm install
+configurar a conexão com BD
